@@ -56,6 +56,5 @@ function runEnter() {
         });
     });
 
-    //how to add data to the bottom
-    //d3.select("h1>span").text(inputValue);
+   
 };
